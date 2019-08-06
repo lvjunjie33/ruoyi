@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="3nod-system" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="3nod-system"/>
+			<item value="ruoyi"/>
+			<item value="3nod-framework"/>
+			<item value="ruoyi.version"/>
+			<item value="若依"/>
+			<item value="/system/main"/>
+			<item value="main"/>
+			<item value="setSuccessUrl"/>
+			<item value="captchaType"/>
+			<item value="captcha"/>
+			<item value=".imgcode"/>
+			<item value="code"/>
+			<item value="form-control code"/>
+			<item value="onAccessDenied"/>
+			<item value="validateCode"/>
+		</list>
+		<list key="replacehistory">
+			<item value="3nod"/>
+			<item value="三诺数字科技"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="300" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="410" key="DIALOG_HEIGHT"/>
+		<item value="818" key="DIALOG_X_ORIGIN"/>
+		<item value="255" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

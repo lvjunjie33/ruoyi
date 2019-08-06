@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1562125486838_1" label="ruoyi" name="ruoyi">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ruoyi-admin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ruoyi-system" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ruoyi-generator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RuoYi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ruoyi-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ruoyi-quartz" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ruoyi-common" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1562125456396_0" label="Window Working Set" name="Aggregate for window 1562125456396"/>
+</workingSetManager>
